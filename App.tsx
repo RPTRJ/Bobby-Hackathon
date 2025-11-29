@@ -4,7 +4,7 @@ import { LiveMonitor } from './components/LiveMonitor';
 import { MaintenanceBoard } from './components/MaintenanceBoard';
 import { IssueModal } from './components/IssueModal';
 import { MachineInfo, MachineStatus, Issue, IssueStatus } from './types';
-import { v4 as uuidv4 } from 'uuid'; // Actually we will simulate uuid since no package provided
+//import { v4 as uuidv4 } from 'uuid'; // Actually we will simulate uuid since no package provided
 
 // Helper for generating IDs
 const generateId = () => Math.random().toString(36).substr(2, 9);
