@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartMaint AI",
+  "description": "AI-powered machine maintenance and anomaly detection system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
